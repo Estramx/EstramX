@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Estramx
+- 👋 Hi, I’m @EstramX
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on all that is possible
